@@ -1,7 +1,7 @@
 # Tr4sh C0d3
 <img src="./images/logo.jpg">
 Project Members:
-[Catherine Chen](https://www.linkedin.com/in/cathkychen/) - [Farhan Mohammed](https://www.linkedin.com/in/farhanmoh/) [Jeffrey Wang](https://www.linkedin.com/in/wangw115/) - [Uzair Ahamed](https://www.linkedin.com/in/uzairmahmed/) 
+![Catherine Chen](https://www.linkedin.com/in/cathkychen/) - ![Farhan Mohammed](https://www.linkedin.com/in/farhanmoh/) ![Jeffrey Wang](https://www.linkedin.com/in/wangw115/) - ![Uzair Ahamed](https://www.linkedin.com/in/uzairmahmed/) 
 
 This project was created as an entry for DeltaHacks 2020 and ended up winning ArcelorMittal's runner-up prize as well as domain.com's best domain challenge.
 
