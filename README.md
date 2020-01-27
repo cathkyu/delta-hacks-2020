@@ -2,7 +2,7 @@
 <img src="./images/logo.jpg">
 
 Connect with us:
-<a href="https://www.linkedin.com/in/cathkychen/">Catherine Chen</a> - <a href=":https://www.linkedin.com/in/farhanmoh/">Farhan Mohammed</a> - <a href="https://www.linkedin.com/in/wangw115/)">Jeffrey Wang</a> - <a href="https://www.linkedin.com/in/uzairmahmed/">Uzair Ahamed</a>
+<a href="https://www.linkedin.com/in/cathkychen/">Catherine Chen</a> - <a href="https://www.linkedin.com/in/farhanmoh/">Farhan Mohammed</a> - <a href="https://www.linkedin.com/in/wangw115/)">Jeffrey Wang</a> - <a href="https://www.linkedin.com/in/uzairmahmed/">Uzair Ahamed</a>
 
 This project was created as an entry for DeltaHacks 2020 and ended up winning ArcelorMittal's runner-up prize as well as domain.com's best domain challenge.
 
