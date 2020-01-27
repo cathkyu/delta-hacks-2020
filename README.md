@@ -1,5 +1,7 @@
 # Tr4sh C0d3
 <img src="./images/logo.jpg">
+[I'm an inline-style link](https://www.google.com)
+<a src="test.com">hello </a>
 Project Members:
 ![Catherine Chen](https://www.linkedin.com/in/cathkychen/) - [Farhan Mohammed]:https://www.linkedin.com/in/farhanmoh/ ![Jeffrey Wang](https://www.linkedin.com/in/wangw115/) - ![Uzair Ahamed](https://www.linkedin.com/in/uzairmahmed/) 
 
